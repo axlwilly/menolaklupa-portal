@@ -1,0 +1,6 @@
+# menolaklupa robots.txt
+User-agent: *
+Allow: /
+Disallow: /drafts/
+
+Sitemap: https://menolaklupa.net/sitemap.xml
